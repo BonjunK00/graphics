@@ -7,5 +7,7 @@
 * Basic OpenGL viewer
 ## Project2
 * Obj viewer & drawing a hierarchical model
+[video](https://www.youtube.com/watch?v=5XU7HpjU73E)
+https://www.youtube.com/watch?v=5XU7HpjU73E
 ## Project3
 * Bvh Viewer
